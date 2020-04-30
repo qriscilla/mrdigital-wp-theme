@@ -1,0 +1,15 @@
+/* 
+Theme Name: Test Theme
+Author: Priscilla Whang
+*/
+
+body {
+    background: #e7e7e7;
+}
+
+header {
+    background: #ffffff;
+    margin-top: -35px;
+    width: 100%;
+    height: 100px;
+}
